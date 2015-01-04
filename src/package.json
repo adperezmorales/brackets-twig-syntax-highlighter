@@ -1,5 +1,6 @@
 {
   "name": "twig",
+  "title": "Twig Syntax Highlighter",
   "version": "1.0.0",
   "description": "Syntax highlighting support for Twig files (.twig)",
   "scripts": {
