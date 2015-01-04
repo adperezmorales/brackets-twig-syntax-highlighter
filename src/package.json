@@ -1,0 +1,26 @@
+{
+  "name": "twig",
+  "version": "1.0.0",
+  "description": "Syntax highlighting support for Twig files (.twig)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adperezmorales/brackets-twig-syntax-highlighter"
+  },
+  "keywords": [
+    "twig",
+    "syntax",
+    "highlighting"
+  ],
+  "author": "Antonio David Perez Morales <adperezmorales@gmail.com> (https://github.com/adperezmorales)",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/adperezmorales/brackets-twig-syntax-highlighter/issues"
+  },
+  "homepage": "https://github.com/adperezmorales/brackets-twig-syntax-highlighter",
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
